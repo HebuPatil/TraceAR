@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 3f6558145db2c3442a87cda00d1e10a5
+  - enabled: 1
+    path: Assets/HowTo.unity
+    guid: 4ec81037c68103b45828d9511c17ff5d
+  - enabled: 1
+    path: Assets/CategorySelection.unity
+    guid: 25b7f053968011f4199faf0efaec2a9b
+  - enabled: 1
+    path: Assets/AnimalSelection.unity
+    guid: ed91bee902bba9046a873bf3dc16ea39
+  - enabled: 1
+    path: Assets/BuildingSelection.unity
+    guid: ef84dfc3421e6ff499d613de48e55dc8
+  - enabled: 1
+    path: Assets/CarSelection.unity
+    guid: d690b6d09832b4f4eab6d42042b5bec5
+  - enabled: 1
+    path: Assets/PlantSelection.unity
+    guid: c62e6a8f5c592d144b22a62962ed2d6a
+  - enabled: 1
+    path: Assets/DrawingScenes/Animals/Drawing_Horse.unity
+    guid: b9687f11f7b37fa448ddbf16271fab1b
+  - enabled: 1
+    path: Assets/DrawingScenes/Animals/Drawing_Dragon.unity
+    guid: 1ab23b3177271284c8a8be722770417d
+  - enabled: 1
+    path: Assets/DrawingScenes/Animals/Drawing_Lion.unity
+    guid: fa1f8a70a4ec11649908a0454672eaa7
+  - enabled: 1
+    path: Assets/DrawingScenes/Animals/Drawing_Tiger.unity
+    guid: faf35899c42537e4fa5476b0d5177ade
+  - enabled: 1
+    path: Assets/DrawingScenes/Buildings/Drawing_Taj.unity
+    guid: 47dc219683d95ee4bb14d7829dc34810
+  - enabled: 1
+    path: Assets/DrawingScenes/Buildings/Drawing_Statue.unity
+    guid: 11a812896ed41f04fb5edb068f997dd0
+  - enabled: 1
+    path: Assets/DrawingScenes/Buildings/Drawing_Eiffel.unity
+    guid: 6fa37191cc3acfa4593d52f52355fcdd
+  - enabled: 1
+    path: Assets/DrawingScenes/Buildings/Drawing_Burj.unity
+    guid: 9f46a5773c52222428dc82f43b82cf92
+  - enabled: 1
+    path: Assets/DrawingScenes/Cars/Drawing_Audi.unity
+    guid: c3976a57d5eda894ba17a8448035afba
+  - enabled: 1
+    path: Assets/DrawingScenes/Cars/Drawing_Lambo.unity
+    guid: d1612272f3cad084da8fa1b3be59cd96
+  - enabled: 1
+    path: Assets/DrawingScenes/Cars/Drawing_Must.unity
+    guid: 7dc9a8394b6e2824f9126964043aa234
+  - enabled: 1
+    path: Assets/DrawingScenes/Cars/Drawing_Vintage.unity
+    guid: bd8069704d4217442846ea18b08091aa
+  - enabled: 1
+    path: Assets/DrawingScenes/Plants/Drawing_Cotton.unity
+    guid: 0c4cf59500eecbe40ac84bdf0f28c512
+  - enabled: 1
+    path: Assets/DrawingScenes/Plants/Drawing_Crocus.unity
+    guid: 2436ccca482f37245a6924a1b3d90f53
+  - enabled: 1
+    path: Assets/DrawingScenes/Plants/Drawing_Rhatany.unity
+    guid: 784c679e0d5b2ca41b4ce40722ae3b16
+  - enabled: 1
+    path: Assets/DrawingScenes/Plants/Drawing_Rose.unity
+    guid: 7822053cdddc1a74aad25907a01b70f8
+  m_configObjects: {}
